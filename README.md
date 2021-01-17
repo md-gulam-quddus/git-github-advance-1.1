@@ -9,8 +9,8 @@ You can copy from text files and paste it into your VS Code.
 - index.html
 - style.css
 - app.js
-- branch4.txt
-- brtanch5.txt
+- branch4.js
+- brtanch5.js
 
 ## My Facebook Links
 
